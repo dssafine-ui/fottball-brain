@@ -1,5 +1,5 @@
 {
-  "stand": "2026-10-26",
+  "stand": "2026-10-30",
   "fragen": [
     {
       "id": "q001",
@@ -966,8 +966,8 @@
       "frage": "Welche Trikotnummern tragen Guards und Tackles der Offense in der NFL?",
       "antworten": ["1 bis 19", "20 bis 49", "50 bis 79", "80 bis 99"],
       "richtig": 2,
-      "erklaerung": "Die Nummer verrät die Position: Quarterbacks, Punter und Kicker tragen 1 bis 19, Receiver, Tight Ends und Running Backs 1 bis 49 und 80 bis 89. Offense-Spieler mit 50 bis 79 sind normalerweise nicht anspielbar.",
-      "quelle": { "text": "Football Terms (Jersey numbers) bei NFL Football Operations", "url": "https://operations.nfl.com/rules-officiating/nfl-football-basics/football-terms" }
+      "erklaerung": "Die Nummer verrät die Position: Quarterbacks tragen 0 bis 19, Receiver, Tight Ends und Running Backs 0 bis 49 und 80 bis 89, Offensive Linemen 50 bis 79 (Punter und Kicker dürfen 0 bis 49 und 90 bis 99 tragen). Offense-Spieler mit 50 bis 79 sind normalerweise nicht anspielbar.",
+      "quelle": { "text": "NFL-Regelbuch 2026, Regel 5-1-2 (Spielernummern nach Position)", "url": "https://operations.nfl.com/rules-officiating/2026-nfl-rulebook" }
     },
     {
       "id": "q084",
@@ -1256,8 +1256,8 @@
         "Er meldet einen Defekt an seiner Ausrüstung"
       ],
       "richtig": 2,
-      "erklaerung": "Offense-Spieler mit den Nummern 50 bis 79 sind normalerweise nicht anspielbar (ineligible). Nach der Meldung beim Referee dürfen sie ausnahmsweise einen Pass fangen. Sonst sind Spieler mit 1 bis 49 und 80 bis 89 anspielbar.",
-      "quelle": { "text": "Football Terms (Eligible Receiver) bei NFL Football Operations", "url": "https://operations.nfl.com/rules-officiating/nfl-football-basics/football-terms" }
+      "erklaerung": "Offense-Spieler mit den Nummern 50 bis 79 sind normalerweise nicht anspielbar (ineligible). Nach der Meldung beim Referee dürfen sie ausnahmsweise einen Pass fangen. Sonst sind Spieler mit 0 bis 49 und 80 bis 89 anspielbar.",
+      "quelle": { "text": "NFL-Regelbuch 2026, Regel 5-3-1 (Meldung beim Referee)", "url": "https://operations.nfl.com/rules-officiating/2026-nfl-rulebook" }
     },
     {
       "id": "q107",
@@ -2468,6 +2468,1051 @@
       "richtig": 1,
       "erklaerung": "Sebastian Vollmer (geboren in Kaarst, früher bei den Düsseldorf Panther) wurde 2009 in der zweiten Runde gedraftet. Im Super Bowl XLIX stand er in der Startelf, im Super Bowl LI fehlte er verletzt. Als erster Deutscher mit Super-Bowl-Titel wird er oft fälschlich genannt: Markus Koch gewann schon 1988 mit Washington den Super Bowl XXII.",
       "quelle": { "text": "Sebastian Vollmer bei Wikipedia", "url": "https://en.wikipedia.org/wiki/Sebastian_Vollmer" }
+    },
+    {
+      "id": "q210",
+      "stufe": 1,
+      "kategorie": "Spielablauf und Strafen",
+      "frage": "Wie viele Yards Strafe gibt es für Delay of Game?",
+      "antworten": ["5 Yards", "10 Yards", "15 Yards", "20 Yards"],
+      "richtig": 0,
+      "erklaerung": "Delay of Game kostet 5 Yards (Regel 4-6). Die Offense hat zu lange gebraucht, den Spielzug zu starten, zum Beispiel weil die Play Clock abgelaufen ist.",
+      "quelle": { "text": "Strafentabelle im NFL-Regelbuch 2026", "url": "https://operations.nfl.com/rules-officiating/2026-nfl-rulebook" }
+    },
+    {
+      "id": "q211",
+      "stufe": 1,
+      "kategorie": "Spielablauf und Strafen",
+      "frage": "Wie viele Yards Strafe gibt es in der NFL für Offside?",
+      "antworten": ["3 Yards", "5 Yards", "10 Yards", "15 Yards"],
+      "richtig": 1,
+      "erklaerung": "Offside kostet 5 Yards (Regel 7-4-5). Ein Spieler ist offside, wenn beim Snap irgendein Teil seines Körpers in oder jenseits der Neutral Zone steht.",
+      "quelle": { "text": "NFL-Regelbuch 2026, Regel 7-4-5 (Offside)", "url": "https://operations.nfl.com/rules-officiating/2026-nfl-rulebook" }
+    },
+    {
+      "id": "q212",
+      "stufe": 2,
+      "kategorie": "Geschichte und Liga",
+      "frage": "Welchen Rückstand holten die New England Patriots im Super Bowl LI (Februar 2017) gegen die Atlanta Falcons auf, um das Spiel in der Verlängerung noch mit 34:28 zu gewinnen?",
+      "antworten": ["14 Punkte (21:7)", "21 Punkte (28:7)", "25 Punkte (28:3)", "30 Punkte (30:0)"],
+      "richtig": 2,
+      "erklaerung": "Die Patriots lagen im dritten Viertel bereits mit 3:28 zurück (25 Punkte Rückstand), schafften das größte Comeback der Super-Bowl-Geschichte und gewannen in der Overtime mit 34:28.",
+      "quelle": { "text": "Super Bowl LI bei Wikipedia", "url": "https://en.wikipedia.org/wiki/Super_Bowl_LI" }
+    },
+    {
+      "id": "q213",
+      "stufe": 3,
+      "kategorie": "Liga und Rekorde",
+      "frage": "Welcher Verteidiger hält mit 81 Interceptions den NFL-Rekord für die meisten abgefangenen Pässe in der Hauptrunde (Career Interceptions)?",
+      "antworten": ["Ed Reed", "Rod Woodson", "Ronnie Lott", "Paul Krause"],
+      "richtig": 3,
+      "erklaerung": "Paul Krause fing zwischen 1964 und 1979 in 226 Spielen 81 Interceptions (zunächst für Washington, dann für die Minnesota Vikings). Dieser Rekord hat bis heute Bestand.",
+      "quelle": { "text": "Paul Krause bei Wikipedia", "url": "https://en.wikipedia.org/wiki/Paul_Krause_(American_football)" }
+    },
+    {
+      "id": "q214",
+      "stufe": 1,
+      "kategorie": "Spielablauf und Strafen",
+      "frage": "Ein Verteidiger hält einen Receiver fest (Defensive Holding). Was bekommt die Offense zusätzlich zu den 5 Yards?",
+      "antworten": ["Einen zusätzlichen Extrapunkt", "Einen zusätzlichen Timeout", "Ein automatisches First Down", "Nichts"],
+      "richtig": 2,
+      "erklaerung": "Defensive Holding kostet 5 Yards und gibt der Offense in jedem Fall ein neues First Down (Regel 12-1-6). Offensive Holding kostet dagegen 10 Yards, aber es gibt dafür kein First Down.",
+      "quelle": { "text": "NFL-Regelbuch 2026, Regel 12-1-6 (Defensive Holding)", "url": "https://operations.nfl.com/rules-officiating/2026-nfl-rulebook" }
+    },
+    {
+      "id": "q215",
+      "stufe": 2,
+      "kategorie": "Liga und Rekorde",
+      "frage": "Welcher Spieler hat mit 208 Touchdowns die meisten Touchdowns insgesamt (Rushing, Receiving und Returns) in seiner NFL-Karriere erzielt?",
+      "antworten": ["Jerry Rice", "Emmitt Smith", "LaDainian Tomlinson", "Randy Moss"],
+      "richtig": 0,
+      "erklaerung": "Jerry Rice erzielte in seiner 20-jährigen Karriere 208 Touchdowns (197 nach Passfängen, 10 nach Läufen und 1 nach Fumble-Recovery), womit er diesen NFL-Rekord anführt.",
+      "quelle": { "text": "NFL Career Touchdown Leaders bei Pro-Football-Reference", "url": "https://www.pro-football-reference.com/leaders/td_career.htm" }
+    },
+    {
+      "id": "q216",
+      "stufe": 1,
+      "kategorie": "Liga und Rekorde",
+      "frage": "Was bekommt Seed 1 jeder Conference in der Wild-Card-Runde?",
+      "antworten": ["Heimrecht im Super Bowl", "Ein Freilos (Bye)", "Zwei zusätzliche Timeouts", "Den ersten Draft-Pick"],
+      "richtig": 1,
+      "erklaerung": "Seed 1 jeder Conference setzt in der Wild-Card-Runde aus und steigt erst in der Divisionsrunde ein. Es ist das einzige Freilos: Von den sieben Teams pro Conference spielen sechs in der Wild-Card-Runde.",
+      "quelle": { "text": "Meldung zum Spielplan 2026 bei NFL.com (Playoff-Format)", "url": "https://media.nfl.com/football-information/2026/news/2026-nfl-schedule-announced" }
+    },
+    {
+      "id": "q217",
+      "stufe": 2,
+      "kategorie": "Regeln",
+      "frage": "Was passiert in der NFL, wenn ein Onside Kick nach 10 Yards das Spielfeld ins Seitenaus verlässt, ohne dass ein Spieler ihn berührt hat?",
+      "antworten": [
+        "Es gibt ein Touchback und der Gegner beginnt an der 25-Yard-Linie",
+        "Es ist ein Foul des Kicking Teams (Free Kick Out of Bounds) und der Gegner bekommt den Ball an der Out-of-Bounds-Stelle oder 25 Yards vom Kick-Punkt entfernt",
+        "Der Kicker muss den Kick unmittelbar wiederholen",
+        "Das Kicking Team erhält eine 5-Yard-Strafe und einen neuen Versuch"
+      ],
+      "richtig": 1,
+      "erklaerung": "Ein Kick ins Seitenaus, den vorher kein Spieler berührt hat, ist ein Foul des Kicking Teams. Der Gegner darf wählen: den Ball dort übernehmen, wo er ins Aus ging, oder 25 Yards vom Kick-Punkt entfernt (beim Safety Kick sind es 30 Yards). Der Kick wird nicht wiederholt.",
+      "quelle": { "text": "NFL-Regelbuch 2026, Regel 6-2-4 (Free Kick Out of Bounds)", "url": "https://operations.nfl.com/rules-officiating/2026-nfl-rulebook" }
+    },
+    {
+      "id": "q218",
+      "stufe": 1,
+      "kategorie": "Liga und Rekorde",
+      "frage": "Wie viele Runden hat der NFL Draft?",
+      "antworten": ["5 Runden", "6 Runden", "7 Runden", "8 Runden"],
+      "richtig": 2,
+      "erklaerung": "Der NFL Draft hat sieben Runden. Jedes der 32 Teams erhält in jeder Runde einen Pick.",
+      "quelle": { "text": "NFL Draft Rules bei NFL Football Operations", "url": "https://operations.nfl.com/calendar-events/nfl-draft/nfl-draft-rules" }
+    },
+    {
+      "id": "q219",
+      "stufe": 3,
+      "kategorie": "Liga und Rekorde",
+      "frage": "Welcher Quarterback hält mit 505 Yards den Rekord für die meisten Passing Yards in einem einzelnen Super Bowl?",
+      "antworten": [
+        "Kurt Warner",
+        "Joe Montana",
+        "Tom Brady",
+        "Nick Foles"
+      ],
+      "richtig": 2,
+      "erklaerung": "Tom Brady warf im Super Bowl LII (Februar 2018) 505 Yards, mehr als jeder andere Quarterback in einem Super Bowl. Seine Patriots verloren trotzdem 33:41 gegen die Philadelphia Eagles. Deren Quarterback Nick Foles kam auf 373 Yards und wurde zum MVP gewählt.",
+      "quelle": { "text": "Liste der Super-Bowl-Rekorde (Passing) bei Wikipedia", "url": "https://en.wikipedia.org/wiki/List_of_Super_Bowl_records" }
+    },
+    {
+      "id": "q220",
+      "stufe": 2,
+      "kategorie": "Taktik und Positionen",
+      "frage": "Was versteht man im Football unter einer 'Nickel Defense'?",
+      "antworten": ["Eine Verteidigung mit 5 Defensive Backs", "Eine Verteidigung mit 7 Linebackern", "Eine reine Mann-gegen-Mann-Verteidigung an der Goalline", "Ein Trickspielzug der Offense"],
+      "richtig": 0,
+      "erklaerung": "Bei einer Nickel Defense ersetzt ein zusätzlicher Defensive Back (meist ein Nickelback) einen Defensive Lineman oder Linebacker, um Passangriffe besser verteidigen zu können.",
+      "quelle": { "text": "Nickel defense bei Wikipedia", "url": "https://en.wikipedia.org/wiki/Nickel_defense" }
+    },
+    {
+      "id": "q221",
+      "stufe": 3,
+      "kategorie": "Geschichte und Liga",
+      "frage": "Welcher Quarterback garantierte 1969 öffentlich den Sieg seines Teams im Super Bowl III, obwohl es als klarer Außenseiter gegen die Baltimore Colts antrat?",
+      "antworten": ["Bart Starr", "Len Dawson", "Joe Namath", "Daryle Lamonica"],
+      "richtig": 2,
+      "erklaerung": "Joe Namath versprach drei Tage vor dem Spiel bei einem Auftritt im Miami Touchdown Club den Sieg der New York Jets. Die Jets gewannen am 12. Januar 1969 mit 16:7 gegen die Baltimore Colts. Es war der erste Super-Bowl-Sieg einer AFL-Mannschaft, Namath wurde zum wertvollsten Spieler gewählt.",
+      "quelle": { "text": "Super Bowl III bei Wikipedia", "url": "https://en.wikipedia.org/wiki/Super_Bowl_III" }
+    },
+    {
+      "id": "q222",
+      "stufe": 1,
+      "kategorie": "Geschichte und Liga",
+      "frage": "Wer gewann den Super Bowl LIX im Februar 2025?",
+      "antworten": ["Kansas City Chiefs", "Philadelphia Eagles", "Buffalo Bills", "San Francisco 49ers"],
+      "richtig": 1,
+      "erklaerung": "Die Philadelphia Eagles schlugen die Kansas City Chiefs am 9. Februar 2025 mit 40:22. Die Chiefs verpassten damit den ersten Three-Peat der Super-Bowl-Geschichte, also drei Titel in Folge.",
+      "quelle": { "text": "Super Bowl LIX bei Wikipedia", "url": "https://en.wikipedia.org/wiki/Super_Bowl_LIX" }
+    },
+    {
+      "id": "q223",
+      "stufe": 1,
+      "kategorie": "Geschichte und Liga",
+      "frage": "Welche zwei NFL-Teams teilen sich das SoFi Stadium in Inglewood, Kalifornien?",
+      "antworten": ["Raiders und Chargers", "Rams und 49ers", "Rams und Chargers", "Chargers und Cardinals"],
+      "richtig": 2,
+      "erklaerung": "Die Los Angeles Rams und die Los Angeles Chargers spielen seit 2020 im SoFi Stadium. Es ist eines von nur zwei NFL-Stadien, die sich zwei Teams teilen.",
+      "quelle": { "text": "SoFi Stadium bei Wikipedia", "url": "https://en.wikipedia.org/wiki/SoFi_Stadium" }
+    },
+    {
+      "id": "q224",
+      "stufe": 1,
+      "kategorie": "Geschichte und Liga",
+      "frage": "Welche zwei NFL-Teams teilen sich das MetLife Stadium in East Rutherford, New Jersey?",
+      "antworten": ["Giants und Jets", "Giants und Eagles", "Jets und Patriots", "Giants und Commanders"],
+      "richtig": 0,
+      "erklaerung": "Die New York Giants und die New York Jets spielen seit 2010 gemeinsam im MetLife Stadium.",
+      "quelle": { "text": "MetLife Stadium bei Wikipedia", "url": "https://en.wikipedia.org/wiki/MetLife_Stadium" }
+    },
+    {
+      "id": "q225",
+      "stufe": 1,
+      "kategorie": "Geschichte und Liga",
+      "frage": "In welchem Stadion in Arlington, Texas, spielen die Dallas Cowboys?",
+      "antworten": ["SoFi Stadium", "Lambeau Field", "AT&T Stadium", "Soldier Field"],
+      "richtig": 2,
+      "erklaerung": "Das AT&T Stadium wurde 2009 eröffnet und hieß bis 2013 Cowboys Stadium.",
+      "quelle": { "text": "AT&T Stadium bei Wikipedia", "url": "https://en.wikipedia.org/wiki/AT%26T_Stadium" }
+    },
+    {
+      "id": "q226",
+      "stufe": 1,
+      "kategorie": "Spielablauf und Strafen",
+      "frage": "Was versteht man im American Football unter der „Red Zone“?",
+      "antworten": ["Die beiden Endzonen", "Den Bereich zwischen den beiden 40-Yard-Linien in der Mitte des Feldes", "Die Zone neben dem Feld, in der Trainer und Ersatzspieler stehen", "Den Bereich zwischen der 20-Yard-Linie und der Goal Line vor der gegnerischen Endzone"],
+      "richtig": 3,
+      "erklaerung": "Die Red Zone reicht von der 20-Yard-Linie bis zur Goal Line der gegnerischen Endzone. Dort gelten die Punktchancen als besonders hoch, weil ein Field Goal fast immer in Reichweite ist. Auf dem Feld ist die Zone nicht rot markiert, der Begriff wird seit den frühen 1980er-Jahren benutzt.",
+      "quelle": { "text": "Red zone bei Wikipedia", "url": "https://en.wikipedia.org/wiki/Red_zone_(gridiron_football)" }
+    },
+    {
+      "id": "q227",
+      "stufe": 2,
+      "kategorie": "Liga und Rekorde",
+      "frage": "Welche zwei Teams standen je viermal im Super Bowl und verloren jedes Mal?",
+      "antworten": ["Buffalo Bills und Minnesota Vikings", "Buffalo Bills und Denver Broncos", "Minnesota Vikings und Philadelphia Eagles", "Kansas City Chiefs und New England Patriots"],
+      "richtig": 0,
+      "erklaerung": "Die Bills und die Vikings haben je vier Super-Bowl-Teilnahmen und keinen Sieg. Die Broncos, die Eagles, die Chiefs und die Patriots haben dagegen alle schon mindestens einen Super Bowl gewonnen. Stand: Oktober 2026.",
+      "quelle": { "text": "Liste der Super-Bowl-Sieger bei Wikipedia", "url": "https://en.wikipedia.org/wiki/List_of_Super_Bowl_champions" }
+    },
+    {
+      "id": "q228",
+      "stufe": 2,
+      "kategorie": "Taktik und Positionen",
+      "frage": "Was versteht man unter einem 'Audible' im American Football?",
+      "antworten": ["Eine taktische Anweisung des Trainers per Funk", "Eine kurzfristige Änderung des Spielzugs durch den Quarterback an der Line of Scrimmage per Ruf", "Ein verbotenes Störgeräusch der Fans", "Ein Protest der Defense gegen den Schiedsrichter"],
+      "richtig": 1,
+      "erklaerung": "Ein Audible ist ein akustischer Ruf des Quarterbacks, mit dem er den im Huddle besprochenen Spielzug ändert, weil er eine andere Aufstellung der Defense erkennt.",
+      "quelle": { "text": "Audible (American football) bei Wikipedia", "url": "https://en.wikipedia.org/wiki/Audible_(American_football)" }
+    },
+    {
+      "id": "q229",
+      "stufe": 1,
+      "kategorie": "Taktik und Positionen",
+      "frage": "Was ist ein Slot Receiver?",
+      "antworten": ["Ein Lineman, der den Ball zu Beginn jedes Spielzugs snappt", "Ein Kicker, der nur bei Field Goals aufs Feld kommt", "Ein Verteidiger, der tief hinter den Linebackern steht", "Ein Receiver, der innen zwischen dem äußeren Receiver und der Offensive Line steht"],
+      "richtig": 3,
+      "erklaerung": "Als „Slot“ bezeichnet man die Lücke zwischen dem äußersten Receiver und der Offensive Line. Wer sich dort ein Stück hinter der Line of Scrimmage aufstellt, ist der Slot Receiver. Er ist meist ein vollwertiger Receiver, oft der dritte, und fängt vor allem kurze Pässe nahe am Quarterback.",
+      "quelle": { "text": "Slotback bei Wikipedia", "url": "https://en.wikipedia.org/wiki/Slotback" }
+    },
+    {
+      "id": "q230",
+      "stufe": 1,
+      "kategorie": "Regeln",
+      "frage": "Wie viele Punkte ist ein Touchdown ohne anschließenden PAT (Extrapunkt oder Two-Point Conversion) wert?",
+      "antworten": ["3 Punkte", "6 Punkte", "7 Punkte", "8 Punkte"],
+      "richtig": 1,
+      "erklaerung": "Ein Touchdown bringt 6 Punkte ein. Danach kann durch einen Kick ein Extrapunkt (1 Punkt) oder per Lauf/Pass eine Two-Point Conversion (2 Punkte) erzielt werden.",
+      "quelle": { "text": "American football rules bei Wikipedia", "url": "https://en.wikipedia.org/wiki/American_football#Scoring" }
+    },
+    {
+      "id": "q231",
+      "stufe": 2,
+      "kategorie": "Geschichte und Liga",
+      "frage": "Welcher Quarterback gewann als erster afroamerikanischer Starter einen Super Bowl und wurde dabei zum MVP gewählt?",
+      "antworten": ["Warren Moon", "Doug Williams", "Randall Cunningham", "Steve McNair"],
+      "richtig": 1,
+      "erklaerung": "Doug Williams gewann im Januar 1988 mit den Washington Redskins (heute Commanders) den Super Bowl XXII mit 42:10 gegen die Denver Broncos. Er warf allein im zweiten Viertel vier Touchdown-Pässe und wurde zum MVP gewählt.",
+      "quelle": { "text": "Doug Williams bei Wikipedia", "url": "https://en.wikipedia.org/wiki/Doug_Williams_(quarterback)" }
+    },
+    {
+      "id": "q232",
+      "stufe": 3,
+      "kategorie": "Regeln",
+      "frage": "Was passiert in der regulären Saison der NFL, wenn es nach Ablauf der regulären 60 Spielminuten unentschieden steht?",
+      "antworten": ["Das Spiel wird mit einem Elfmeterschießen entschieden", "Es gibt eine 10-minütige Overtime mit modifiziertem Sudden Death", "Das Spiel endet endgültig unentschieden", "Es wird eine komplette Verlängerung von 15 Minuten gespielt"],
+      "richtig": 1,
+      "erklaerung": "In der Hauptrunde gibt es eine einzige Verlängerung von höchstens 10 Minuten. Seit der Saison 2025 bekommen dabei beide Teams mindestens einen Ballbesitz, so wie in den Playoffs seit 2022. Steht es nach den 10 Minuten noch unentschieden, bleibt es beim Remis.",
+      "quelle": { "text": "Beschlossene Regeländerungen 2025 bei NFL.com", "url": "https://media.nfl.com/football-information/2025/approved-2025-playing-rules--bylaws-and-resolutions" }
+    },
+    {
+      "id": "q233",
+      "stufe": 2,
+      "kategorie": "Spielablauf und Strafen",
+      "frage": "Ein Offensive Tackle läuft bei einem Pass mehr als ein Yard über die Line of Scrimmage hinaus in Richtung gegnerische Endzone, bevor der Ball geworfen wird (Ineligible Receiver Downfield). Wie viele Yards kostet das?",
+      "antworten": ["1 Yard", "5 Yards", "10 Yards", "15 Yards"],
+      "richtig": 1,
+      "erklaerung": "Spieler ohne Fangberechtigung, zum Beispiel Offensive Linemen, dürfen vor dem Pass höchstens ein Yard über die Line of Scrimmage hinauslaufen. Weiter nach vorn kostet 5 Yards vom vorherigen Spot (Regel 8-3-1).",
+      "quelle": { "text": "NFL-Regelbuch 2026, Regel 8-3-1 (Ineligible Player Downfield)", "url": "https://operations.nfl.com/rules-officiating/2026-nfl-rulebook" }
+    },
+    {
+      "id": "q234",
+      "stufe": 2,
+      "kategorie": "Liga und Rekorde",
+      "frage": "Welcher Spieler hält mit 20 Return-Touchdowns in der Hauptrunde (14 nach Punts, 5 nach Kickoffs, 1 nach einem verfehlten Field Goal) den NFL-Rekord?",
+      "antworten": ["Devin Hester", "Deion Sanders", "Cordarrelle Patterson", "Josh Cribbs"],
+      "richtig": 0,
+      "erklaerung": "Devin Hester erzielte in der Hauptrunde 20 Return-Touchdowns: 14 nach Punts, 5 nach Kickoffs und einen nach einem verfehlten Field Goal (108 Yards gegen die Giants 2006). Das ist NFL-Rekord, ebenso seine 14 Punt-Return-Touchdowns.",
+      "quelle": { "text": "Devin Hester bei Wikipedia", "url": "https://en.wikipedia.org/wiki/Devin_Hester" }
+    },
+    {
+      "id": "q235",
+      "stufe": 3,
+      "kategorie": "Regeln",
+      "frage": "Die Offense stellt sich vor dem Snap um (Shift). Wie lange müssen danach alle Spieler der Offense mindestens gleichzeitig stillstehen, bevor der Ball gesnappt werden darf?",
+      "antworten": ["Eine halbe Sekunde", "Eine volle Sekunde", "Zwei Sekunden", "Drei Sekunden"],
+      "richtig": 1,
+      "erklaerung": "Nach dem letzten Shift müssen alle Spieler der Offense gleichzeitig in der Set-Position stillstehen, und zwar mindestens eine volle Sekunde, bevor der Ball gesnappt wird (Regel 7-4-6 und 7-4-7). Sonst wird ein Illegal Shift gepfiffen: 5 Yards Strafe.",
+      "quelle": { "text": "NFL-Regelbuch 2026, Regel 7-4-6 und 7-4-7 (Complete Stop, Shifts)", "url": "https://operations.nfl.com/rules-officiating/2026-nfl-rulebook" }
+    },
+    {
+      "id": "q236",
+      "stufe": 2,
+      "kategorie": "Regeln",
+      "frage": "Der Quarterback wirft den Ball direkt nach dem Snap in den Boden (Spike). Was bewirkt das?",
+      "antworten": ["Die Uhr stoppt und ein Down ist verbraucht", "Es gibt 5 Yards Strafe", "Es ist Intentional Grounding", "Die Offense bekommt ein First Down"],
+      "richtig": 0,
+      "erklaerung": "Ein Spike sofort nach dem Snap ist erlaubt. Er stoppt die Uhr, zählt aber als Down. So spart ein Team am Ende einer Halbzeit Zeit (Regel 8-2-1).",
+      "quelle": { "text": "NFL-Regelbuch 2026, Regel 8-2-1 (Intentional Grounding, Stopping Clock)", "url": "https://operations.nfl.com/rules-officiating/2026-nfl-rulebook" }
+    },
+    {
+      "id": "q237",
+      "stufe": 2,
+      "kategorie": "Liga und Rekorde",
+      "frage": "Gegen welchen Seed spielt Seed 2 in der Wild-Card-Runde zu Hause?",
+      "antworten": ["Seed 3", "Seed 4", "Seed 5", "Seed 7"],
+      "richtig": 3,
+      "erklaerung": "In der Wild-Card-Runde empfängt Seed 2 den Seed 7. Die anderen Paarungen sind Seed 3 gegen Seed 6 und Seed 4 gegen Seed 5, jeweils mit Heimrecht für den besser gesetzten Seed. Seed 1 hat ein Freilos.",
+      "quelle": { "text": "Meldung zum Spielplan 2026 bei NFL.com (Playoff-Format)", "url": "https://media.nfl.com/football-information/2026/news/2026-nfl-schedule-announced" }
+    },
+    {
+      "id": "q238",
+      "stufe": 2,
+      "kategorie": "Liga und Rekorde",
+      "frage": "Wer sind in jeder Conference die Seeds 1 bis 4?",
+      "antworten": ["Die vier besten Wild Cards", "Die vier Divisionssieger", "Die vier besten Offenses", "Sie werden per Los bestimmt"],
+      "richtig": 1,
+      "erklaerung": "Die vier Divisionssieger jeder Conference sind die Seeds 1 bis 4, geordnet nach ihrer Bilanz. Die Seeds 5 bis 7 sind die drei besten übrigen Teams, die Wild Cards.",
+      "quelle": { "text": "NFL-Playoffs bei Wikipedia", "url": "https://en.wikipedia.org/wiki/NFL_playoffs" }
+    },
+    {
+      "id": "q239",
+      "stufe": 2,
+      "kategorie": "Liga und Rekorde",
+      "frage": "In welcher Stadt fand der NFL Draft 2025 statt?",
+      "antworten": ["Detroit", "Las Vegas", "Kansas City", "Green Bay"],
+      "richtig": 3,
+      "erklaerung": "Der Draft 2025 fand vom 24. bis 26. April am Lambeau Field und im angrenzenden Titletown District in Green Bay, Wisconsin, statt.",
+      "quelle": { "text": "NFL Draft 2025 bei Wikipedia", "url": "https://en.wikipedia.org/wiki/2025_NFL_draft" }
+    },
+    {
+      "id": "q240",
+      "stufe": 2,
+      "kategorie": "Taktik und Positionen",
+      "frage": "Welche spezielle Aufgabe hat der „Long Snapper“ bei Special-Teams-Situationen?",
+      "antworten": ["Er wirft den Ball beim Kickoff tief in die gegnerische Hälfte", "Er snappt den Ball bei Punts und Field Goals über eine längere Distanz zum Punter oder Holder", "Er blockt als einziger Spieler den gegnerischen Kicker", "Er führt den Münzwurf aus"],
+      "richtig": 1,
+      "erklaerung": "Der Long Snapper muss den Ball präzise nach hinten werfen: bei Punts rund 13 bis 15 Yards weit zum Punter, bei Field Goals und Extrapunkten 7 bis 8 Yards weit zum Holder.",
+      "quelle": { "text": "Long snapper bei Wikipedia", "url": "https://en.wikipedia.org/wiki/Long_snapper" }
+    },
+    {
+      "id": "q241",
+      "stufe": 3,
+      "kategorie": "Geschichte und Liga",
+      "frage": "Welcher Quarterback war der jüngste Starter, der jemals einen Super Bowl (Super Bowl XL) gewinnen konnte?",
+      "antworten": ["Tom Brady", "Patrick Mahomes", "Ben Roethlisberger", "Dan Marino"],
+      "richtig": 2,
+      "erklaerung": "Ben Roethlisberger gewann mit den Pittsburgh Steelers den Super Bowl XL im Alter von 23 Jahren und 340 Tagen.",
+      "quelle": { "text": "Super Bowl XL bei Wikipedia", "url": "https://en.wikipedia.org/wiki/Super_Bowl_XL" }
+    },
+    {
+      "id": "q242",
+      "stufe": 1,
+      "kategorie": "Regeln",
+      "frage": "Was ist ein 'Touchback' im American Football?",
+      "antworten": ["Ein Spieler berührt den Ball im Seitenaus", "Der Ball wird in der eigenen Endzone nach einem Kickoff oder Punt gestoppt/gefangen und das Spiel beginnt an der festgelegten Linie", "Ein erfolgreicher Touchdown mit Bonus", "Ein Regelverstoß in der Red Zone"],
+      "richtig": 1,
+      "erklaerung": "Ein Touchback beendet den Spielzug in der Endzone, und die Offense bekommt den Ball an einer festgelegten Linie. Nach einem Punt ist das die 20-Yard-Linie, nach einem Kickoff die 35. Setzt der Kickoff vorher in der Landing Zone (zwischen 20-Yard-Linie und Goal Line) auf, ist es die 20.",
+      "quelle": { "text": "NFL-Regelbuch 2026, Regeln 6-1-5 und 11-6 (Touchback)", "url": "https://operations.nfl.com/rules-officiating/2026-nfl-rulebook" }
+    },
+    {
+      "id": "q243",
+      "stufe": 2,
+      "kategorie": "College-Football",
+      "frage": "Welches College-Football-Team gewann im Januar 2024 das College Football Playoff National Championship Game gegen die Washington Huskies?",
+      "antworten": ["Alabama Crimson Tide", "Georgia Bulldogs", "Michigan Wolverines", "Texas Longhorns"],
+      "richtig": 2,
+      "erklaerung": "Die Michigan Wolverines gewannen das Finale im Januar 2024 mit 34:13 und sicherten sich die nationale Meisterschaft.",
+      "quelle": { "text": "2024 College Football Playoff National Championship bei Wikipedia", "url": "https://en.wikipedia.org/wiki/2024_College_Football_Playoff_National_Championship" }
+    },
+    {
+      "id": "q244",
+      "stufe": 2,
+      "kategorie": "Liga und Rekorde",
+      "frage": "Wer wurde im NFL Draft 2025 als Erster ausgewählt?",
+      "antworten": ["Travis Hunter", "Cam Ward", "Shedeur Sanders", "Abdul Carter"],
+      "richtig": 1,
+      "erklaerung": "Die Tennessee Titans wählten Quarterback Cam Ward von den Miami Hurricanes an erster Stelle. Travis Hunter ging an Position 2 zu den Jaguars, Abdul Carter an Position 3 zu den Giants. Shedeur Sanders wurde erst in der fünften Runde ausgewählt.",
+      "quelle": { "text": "NFL Draft 2025 bei Wikipedia", "url": "https://en.wikipedia.org/wiki/2025_NFL_draft" }
+    },
+    {
+      "id": "q245",
+      "stufe": 2,
+      "kategorie": "Football in Europa",
+      "frage": "In welchem deutschen Stadion fand im November 2023 das erste reguläre NFL-Hauptrundenspiel in Frankfurt am Main statt?",
+      "antworten": ["Deutsche Bank Park", "Allianz Arena", "Olympiastadion Berlin", "Merkur Spiel-Arena Düsseldorf"],
+      "richtig": 0,
+      "erklaerung": "Im Deutsche Bank Park in Frankfurt trugen die Kansas City Chiefs im November 2023 ein Spiel gegen die Miami Dolphins aus.",
+      "quelle": { "text": "NFL Frankfurt Games bei Wikipedia", "url": "https://en.wikipedia.org/wiki/NFL_International_Series" }
+    },
+    {
+      "id": "q246",
+      "stufe": 2,
+      "kategorie": "Geschichte und Liga",
+      "frage": "Wer wurde zum wertvollsten Spieler (MVP) des Super Bowl LIX gewählt?",
+      "antworten": ["Patrick Mahomes", "A.J. Brown", "Saquon Barkley", "Jalen Hurts"],
+      "richtig": 3,
+      "erklaerung": "Eagles-Quarterback Jalen Hurts war beim 40:22 gegen die Chiefs an insgesamt drei Touchdowns beteiligt und wurde zum MVP gewählt.",
+      "quelle": { "text": "Super Bowl LIX bei Wikipedia", "url": "https://en.wikipedia.org/wiki/Super_Bowl_LIX" }
+    },
+    {
+      "id": "q247",
+      "stufe": 2,
+      "kategorie": "Geschichte und Liga",
+      "frage": "In welchem Stadion wurde der Super Bowl LIX im Februar 2025 gespielt?",
+      "antworten": ["Caesars Superdome", "Allegiant Stadium", "Levi's Stadium", "SoFi Stadium"],
+      "richtig": 0,
+      "erklaerung": "Der Super Bowl LIX fand am 9. Februar 2025 im Caesars Superdome in New Orleans, Louisiana, statt.",
+      "quelle": { "text": "Super Bowl LIX bei Wikipedia", "url": "https://en.wikipedia.org/wiki/Super_Bowl_LIX" }
+    },
+    {
+      "id": "q248",
+      "stufe": 2,
+      "kategorie": "Geschichte und Liga",
+      "frage": "Wie heißt die Trophäe für den wertvollsten Spieler (MVP) des Super Bowls?",
+      "antworten": ["Heisman Trophy", "Vince Lombardi Trophy", "Pete Rozelle Trophy", "Walter Payton Award"],
+      "richtig": 2,
+      "erklaerung": "Die Pete Rozelle Trophy wurde erstmals beim Super Bowl XXV vergeben. Die Vince Lombardi Trophy bekommt das Siegerteam.",
+      "quelle": { "text": "Super Bowl Most Valuable Player Award bei Wikipedia", "url": "https://en.wikipedia.org/wiki/Super_Bowl_Most_Valuable_Player_Award" }
+    },
+    {
+      "id": "q249",
+      "stufe": 1,
+      "kategorie": "Taktik und Positionen",
+      "frage": "Welche Trikotnummern dürfen Quarterbacks in der NFL offiziell tragen?",
+      "antworten": ["Nummer 50 bis 79", "Nummer 0 bis 19", "Nummer 20 bis 49", "Nummer 80 bis 99"],
+      "richtig": 1,
+      "erklaerung": "Nach Regel 5-1-2 tragen Quarterbacks die Nummern 0 bis 19. Punter und Kicker dürfen 0 bis 49 und 90 bis 99 tragen, Offensive Linemen 50 bis 79, Wide Receiver 0 bis 49 und 80 bis 89.",
+      "quelle": { "text": "NFL-Regelbuch 2026, Regel 5-1-2 (Players Numbered by Position)", "url": "https://operations.nfl.com/rules-officiating/2026-nfl-rulebook" }
+    },
+    {
+      "id": "q250",
+      "stufe": 2,
+      "kategorie": "Geschichte und Liga",
+      "frage": "Welcher Quarterback gewann alle vier Super Bowls, in denen er stand, und wurde dabei dreimal zum MVP gewählt?",
+      "antworten": ["Tom Brady", "Joe Montana", "Troy Aikman", "Peyton Manning"],
+      "richtig": 1,
+      "erklaerung": "Joe Montana gewann mit den San Francisco 49ers die Super Bowls XVI, XIX, XXIII und XXIV und war in XVI, XIX und XXIV der MVP.",
+      "quelle": { "text": "Joe Montana bei Wikipedia", "url": "https://en.wikipedia.org/wiki/Joe_Montana" }
+    },
+    {
+      "id": "q251",
+      "stufe": 2,
+      "kategorie": "Liga und Rekorde",
+      "frage": "Wie oft wurde Tom Brady zum wertvollsten Spieler (MVP) eines Super Bowls gewählt?",
+      "antworten": ["3-mal", "4-mal", "5-mal", "6-mal"],
+      "richtig": 2,
+      "erklaerung": "Brady ist der einzige Spieler mit fünf Super-Bowl-MVP-Auszeichnungen. Kein anderer Spieler hat mehr als drei. Stand: Oktober 2026.",
+      "quelle": { "text": "Super Bowl Most Valuable Player Award bei Wikipedia", "url": "https://en.wikipedia.org/wiki/Super_Bowl_Most_Valuable_Player_Award" }
+    },
+    {
+      "id": "q252",
+      "stufe": 3,
+      "kategorie": "Regeln",
+      "frage": "Was wird als 'Pass Interference' bestraft?",
+      "antworten": ["Ein Spieler redet während des Passens auf den Gegner ein", "Unzulässiger Körperkontakt gegen einen Receiver oder Verteidiger, der den Fangversuch behindert, während der Ball in der Luft ist", "Jeder Kontakt nach 5 Yards", "Ein Pass, der die Seitenlinie überquert"],
+      "richtig": 1,
+      "erklaerung": "Pass Interference ist eine schwere Strafe. In der NFL wird sie mit einem automatischen First Down am Ort des Fouls bestraft (oder 15 Yards bei der Defense in der College-Variante).",
+      "quelle": { "text": "Pass interference bei Wikipedia", "url": "https://en.wikipedia.org/wiki/Pass_interference" }
+    },
+    {
+      "id": "q253",
+      "stufe": 1,
+      "kategorie": "Regeln",
+      "frage": "Wie viele Punkte bringt ein 'Safety' ein?",
+      "antworten": ["1 Punkt", "2 Punkte", "3 Punkte", "6 Punkte"],
+      "richtig": 1,
+      "erklaerung": "Ein Safety passiert, wenn ein ballführender Spieler der Offense in seiner eigenen Endzone getackelt wird oder den Ball dort verliert. Das bringt der Defense 2 Punkte und den Ballbesitz per Kickoff ein.",
+      "quelle": { "text": "Safety (gridiron football score) bei Wikipedia", "url": "https://en.wikipedia.org/wiki/Safety_(gridiron_football_score)" }
+    },
+    {
+      "id": "q254",
+      "stufe": 2,
+      "kategorie": "Taktik und Positionen",
+      "frage": "Was versteht man im American Football unter einem 'Punt'?",
+      "antworten": ["Einen Schuss durch die Torstangen", "Das Wegkicken des Balls aus der Hand im vierten Versuch, um den Gegner möglichst weit hinten starten zu lassen", "Einen kurzen Befreiungsschlag aus der Endzone", "Einen Täuschungsversuch beim Lauf"],
+      "richtig": 1,
+      "erklaerung": "Der Punter lässt den Ball fallen und tritt ihn aus der Luft weg, wenn die Offense im vierten Versuch kein First Down mehr riskieren will.",
+      "quelle": { "text": "Punt (gridiron football) bei Wikipedia", "url": "https://en.wikipedia.org/wiki/Punt_(gridiron_football)" }
+    },
+    {
+      "id": "q255",
+      "stufe": 2,
+      "kategorie": "Geschichte und Liga",
+      "frage": "Wie ging der Super Bowl LVII im Februar 2023 aus?",
+      "antworten": ["Chiefs 38:35 gegen die Eagles", "Eagles 38:35 gegen die Chiefs", "Chiefs 31:20 gegen die Bengals", "Buccaneers 31:9 gegen die Chiefs"],
+      "richtig": 0,
+      "erklaerung": "Die Kansas City Chiefs schlugen die Philadelphia Eagles am 12. Februar 2023 in Glendale, Arizona, mit 38:35. Patrick Mahomes wurde zum MVP gewählt.",
+      "quelle": { "text": "Super Bowl LVII bei Wikipedia", "url": "https://en.wikipedia.org/wiki/Super_Bowl_LVII" }
+    },
+    {
+      "id": "q256",
+      "stufe": 2,
+      "kategorie": "Geschichte und Liga",
+      "frage": "Wie endete der Super Bowl LVIII im Februar 2024?",
+      "antworten": ["Chiefs 25:22 nach Verlängerung gegen die 49ers", "49ers 25:22 nach Verlängerung gegen die Chiefs", "Chiefs 31:20 gegen die 49ers", "Eagles 24:21 gegen die Chiefs"],
+      "richtig": 0,
+      "erklaerung": "Die Kansas City Chiefs gewannen am 11. Februar 2024 mit 25:22 nach Verlängerung gegen die San Francisco 49ers. Es war erst die zweite Verlängerung der Super-Bowl-Geschichte.",
+      "quelle": { "text": "Super Bowl LVIII bei Wikipedia", "url": "https://en.wikipedia.org/wiki/Super_Bowl_LVIII" }
+    },
+    {
+      "id": "q257",
+      "stufe": 2,
+      "kategorie": "Geschichte und Liga",
+      "frage": "In welchem US-Bundesstaat fand der Super Bowl LVIII statt?",
+      "antworten": ["Kalifornien", "Florida", "Texas", "Nevada"],
+      "richtig": 3,
+      "erklaerung": "Gespielt wurde im Allegiant Stadium in Paradise direkt neben Las Vegas. Es war der erste Super Bowl im Bundesstaat Nevada.",
+      "quelle": { "text": "Super Bowl LVIII bei Wikipedia", "url": "https://en.wikipedia.org/wiki/Super_Bowl_LVIII" }
+    },
+    {
+      "id": "q258",
+      "stufe": 2,
+      "kategorie": "Liga und Rekorde",
+      "frage": "Welche Teams gehören zur AFC East?",
+      "antworten": ["Bills, Dolphins, Patriots, Jets", "Bills, Browns, Patriots, Jets", "Dolphins, Colts, Patriots, Jets", "Bills, Dolphins, Giants, Jets"],
+      "richtig": 0,
+      "erklaerung": "Zur AFC East gehören die Buffalo Bills, Miami Dolphins, New England Patriots und New York Jets. Die Browns spielen in der AFC North, die Colts in der AFC South und die Giants in der NFC East.",
+      "quelle": { "text": "Tabelle nach Divisionen 2026 bei NFL.com", "url": "https://www.nfl.com/standings/division/2026/REG" }
+    },
+    {
+      "id": "q259",
+      "stufe": 2,
+      "kategorie": "Liga und Rekorde",
+      "frage": "Welche Teams gehören zur NFC North?",
+      "antworten": ["Bears, Lions, Packers, Vikings", "Bears, Lions, Packers, Browns", "Bears, Steelers, Packers, Vikings", "Lions, Packers, Vikings, Seahawks"],
+      "richtig": 0,
+      "erklaerung": "Zur NFC North gehören die Chicago Bears, Detroit Lions, Green Bay Packers und Minnesota Vikings. Browns und Steelers spielen in der AFC North, die Seahawks in der NFC West.",
+      "quelle": { "text": "Tabelle nach Divisionen 2026 bei NFL.com", "url": "https://www.nfl.com/standings/division/2026/REG" }
+    },
+    {
+      "id": "q260",
+      "stufe": 1,
+      "kategorie": "Spielablauf und Strafen",
+      "frage": "Wie viele reine Spielminuten umfasst eine Halbzeit im American Football (ohne Pausen)?",
+      "antworten": ["15 Minuten", "30 Minuten", "45 Minuten", "60 Minuten"],
+      "richtig": 1,
+      "erklaerung": "Ein Viertel dauert 15 Minuten. Zwei Viertel bilden eine Halbzeit, also 30 reine Spielminuten.",
+      "quelle": { "text": "American football rules bei Wikipedia", "url": "https://en.wikipedia.org/wiki/American_football#Rules" }
+    },
+    {
+      "id": "q261",
+      "stufe": 2,
+      "kategorie": "Football in Europa",
+      "frage": "Welcher Deutsche wurde 2016 in der sechsten Runde des NFL Drafts von den Minnesota Vikings ausgewählt, ohne je College-Football gespielt zu haben?",
+      "antworten": ["Björn Werner", "Moritz Böhringer", "Markus Kuhn", "Jakob Johnson"],
+      "richtig": 1,
+      "erklaerung": "Moritz Böhringer spielte zuvor in der GFL bei den Schwäbisch Hall Unicorns. Die Vikings wählten ihn 2016 an 180. Stelle aus. Er war der erste Europäer, der im NFL Draft ohne jede College-Football-Erfahrung ausgewählt wurde.",
+      "quelle": { "text": "Moritz Böhringer bei Wikipedia", "url": "https://en.wikipedia.org/wiki/Moritz_Böhringer" }
+    },
+    {
+      "id": "q262",
+      "stufe": 2,
+      "kategorie": "Taktik und Positionen",
+      "frage": "Was ist ein Gunner im American Football?",
+      "antworten": ["Ein Quarterback, der aus der Shotgun-Formation heraus lange Pässe wirft", "Ein Verteidiger, der fast nur gegen Läufe in der Mitte des Feldes spielt", "Ein Special-Teams-Spieler, der bei Punts und Kickoffs schnell die Seitenlinie entlangläuft", "Ein Offizieller, der hinter der Defense die Spieluhr und die Play Clock bedient"],
+      "richtig": 2,
+      "erklaerung": "Gunner sind Spezialisten in der Kick-Abdeckung. Beim Punt stehen zwei von ihnen nahe der Seitenlinie und dürfen schon beim Snap losrennen, um den Returner zu stoppen. Beim Kickoff haben sie eine ähnliche Aufgabe. Ihr Gegenspieler beim Return-Team heißt Jammer.",
+      "quelle": { "text": "Gunner bei Wikipedia", "url": "https://en.wikipedia.org/wiki/Gunner_(American_football)" }
+    },
+    {
+      "id": "q263",
+      "stufe": 1,
+      "kategorie": "Taktik und Positionen",
+      "frage": "Wie nennt man die kreisrund versammelte Gruppe der Offense-Spieler vor dem nächsten Spielzug?",
+      "antworten": ["Huddle", "Timeout", "Scrum", "Playbook"],
+      "richtig": 0,
+      "erklaerung": "Im Huddle teilt der Quarterback den nächsten Spielzug mit, bevor sich alle an der Line of Scrimmage aufstellen.",
+      "quelle": { "text": "Huddle bei Wikipedia", "url": "https://en.wikipedia.org/wiki/Huddle" }
+    },
+    {
+      "id": "q264",
+      "stufe": 2,
+      "kategorie": "Taktik und Positionen",
+      "frage": "Was bedeutet 'Coffin Corner' im American Football?",
+      "antworten": ["Die Ecke der Spielerbank, in der verletzte Spieler zuerst behandelt werden", "Eine Verteidigung, bei der alle Spieler eng um die eigene Endzone stehen", "Ein verbotener Block gegen einen Spieler, der gerade den Ball fängt", "Der Bereich vor der Endzone nahe der Seitenlinie, in den ein Punter den Ball platzieren will"],
+      "richtig": 3,
+      "erklaerung": "Die Coffin Corner ist die Ecke des Feldes kurz vor der Endzone, etwa von der 5-Yard-Linie bis zur Goal Line. Der Punter versucht, den Ball dort ins Aus zu kicken oder so zu platzieren, dass ein Mitspieler ihn vor der Goal Line stoppt. Dann muss der Gegner nahe der eigenen Endzone beginnen. Der Name kommt daher, dass der Zielbereich sehr klein ist. Fliegt der Ball zu weit, gibt es einen Touchback.",
+      "quelle": { "text": "Coffin corner bei Wikipedia", "url": "https://en.wikipedia.org/wiki/Coffin_corner_(American_football)" }
+    },
+    {
+      "id": "q265",
+      "stufe": 3,
+      "kategorie": "Liga und Rekorde",
+      "frage": "Welcher Runningback der Patriots fing im legendären Super Bowl LI die meisten Pässe (14 Catches) in einem einzigen Super Bowl?",
+      "antworten": ["Dion Lewis", "James White", "Sony Michel", "Rex Burkhead"],
+      "richtig": 1,
+      "erklaerung": "James White erzielte im Super Bowl LI drei Touchdowns und fing 14 Pässe für 110 Yards, was maßgeblich zum Comeback beitrug.",
+      "quelle": { "text": "Super Bowl LI bei Wikipedia", "url": "https://en.wikipedia.org/wiki/Super_Bowl_LI" }
+    },
+    {
+      "id": "q266",
+      "stufe": 2,
+      "kategorie": "Regeln",
+      "frage": "Was macht ein Cheftrainer, wenn er eine Schiedsrichterentscheidung per Videobeweis überprüfen lassen möchte?",
+      "antworten": ["Er wirft eine rote Flagge ('Challenge Flag') auf das Spielfeld", "Er zieht die gelbe Karte", "Er drückt einen Buzzer an der Seitenlinie", "Er verlangt ein technisches Timeout"],
+      "richtig": 0,
+      "erklaerung": "Mit dem Wurf der roten Flagge vor dem nächsten Snap fordert der Coach den Review an. Liegt er falsch, verliert sein Team ein Timeout.",
+      "quelle": { "text": "Instant replay in American football bei Wikipedia", "url": "https://en.wikipedia.org/wiki/Instant_replay_in_American_football" }
+    },
+    {
+      "id": "q267",
+      "stufe": 2,
+      "kategorie": "Spielablauf und Strafen",
+      "frage": "Was ist ein Squib Kick?",
+      "antworten": ["Ein kurzer, flacher Kickoff, der über den Boden springt und lange Returns verhindern soll", "Ein extrem hoher Kickoff, der möglichst lange in der Luft bleibt", "Ein Kick, bei dem der Ball erst nach dem Aufsetzen auf dem Boden getreten wird", "Ein Kick durch die Torstangen, der drei Punkte bringt"],
+      "richtig": 0,
+      "erklaerung": "Ein Squib Kick ist ein kurzer, flacher Kickoff, der über den Boden springt. Das Return-Team muss den Ball dann oft mit langsameren Spielern aufheben statt mit dem schnellen Returner, und ein langer Return wird schwerer. Seit 2024 wird ein Kickoff bestraft, der vor der Landing Zone aufsetzt (Regel 6-2-4). Darum sieht man den Squib Kick in der NFL kaum noch.",
+      "quelle": { "text": "Squib kick bei Wikipedia; Regel 6-2-4 im NFL-Regelbuch 2026", "url": "https://en.wikipedia.org/wiki/Squib_kick" }
+    },
+    {
+      "id": "q268",
+      "stufe": 3,
+      "kategorie": "Regeln",
+      "frage": "Wie lang ist eine Verlängerungsperiode in den NFL-Playoffs?",
+      "antworten": ["5 Minuten", "10 Minuten", "12 Minuten", "15 Minuten"],
+      "richtig": 3,
+      "erklaerung": "In den Playoffs dauert jede Verlängerungsperiode 15 Minuten. In der Hauptrunde gibt es dagegen nur eine Verlängerung von höchstens 10 Minuten.",
+      "quelle": { "text": "So funktioniert die Verlängerung in den Playoffs bei CBS Sports", "url": "https://www.cbssports.com/nfl/news/how-nfl-overtime-works-in-the-playoffs-explaining-the-difference-between-postseason-and-regular-season-rules" }
+    },
+    {
+      "id": "q269",
+      "stufe": 3,
+      "kategorie": "Geschichte und Liga",
+      "frage": "Aus wie vielen Teams bestand die AFC 1970 nach der Fusion von AFL und NFL?",
+      "antworten": ["10 Teams", "12 Teams", "13 Teams", "16 Teams"],
+      "richtig": 2,
+      "erklaerung": "Alle zehn AFL-Teams kamen mit den Baltimore Colts, den Cleveland Browns und den Pittsburgh Steelers in die AFC. Die übrigen 13 NFL-Teams bildeten die NFC.",
+      "quelle": { "text": "NFL-Saison 1970 bei Wikipedia", "url": "https://en.wikipedia.org/wiki/1970_NFL_season" }
+    },
+    {
+      "id": "q270",
+      "stufe": 3,
+      "kategorie": "Geschichte und Liga",
+      "frage": "Wie verteilten sich die Siege in den ersten vier Super Bowls (1967 bis 1970) auf NFL und AFL?",
+      "antworten": ["Je zwei Siege", "Vier Siege für die NFL", "Drei Siege für die AFL", "Drei Siege für die NFL"],
+      "richtig": 0,
+      "erklaerung": "Für die NFL gewannen die Green Bay Packers die Super Bowls I und II. Danach siegten für die AFL die New York Jets (III) und die Kansas City Chiefs (IV).",
+      "quelle": { "text": "Super Bowl bei Wikipedia", "url": "https://en.wikipedia.org/wiki/Super_Bowl" }
+    },
+    {
+      "id": "q271",
+      "stufe": 2,
+      "kategorie": "Taktik und Positionen",
+      "frage": "Ein Team führt spät im vierten Viertel mit mehr als einem Touchdown und stellt auf eine 'Prevent Defense' um. Was ist ihr Ziel?",
+      "antworten": [
+        "Lange Pässe und schnelle Touchdowns verhindern, auch wenn der Gegner kurze Raumgewinne bekommt",
+        "Den Quarterback mit möglichst vielen zusätzlichen Blitzern unter Druck setzen",
+        "Alle Verteidiger direkt an die Line of Scrimmage stellen, um jeden Lauf zu stoppen",
+        "Die Uhr anhalten, damit die eigene Offense noch einmal an den Ball kommt"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Prevent Defense setzt fünf oder mehr Defensive Backs ein, die weit zurückfallen und Zonen decken. Sie nimmt kurze Raumgewinne bewusst in Kauf, solange die Uhr weiterläuft, und will vor allem einen langen Pass oder schnellen Touchdown verhindern.",
+      "quelle": { "text": "Prevent defense bei Wikipedia", "url": "https://en.wikipedia.org/wiki/Prevent_defense" }
+    },
+    {
+      "id": "q272",
+      "stufe": 3,
+      "kategorie": "Regeln",
+      "frage": "Was passiert bei einem 'Fair Catch' während eines Punts?",
+      "antworten": ["Der Spieler wirft den Ball sofort zurück", "Der Returner signalisiert durch Winken, dass er den Ball fangen will, ohne danach attackiert zu werden und ohne Raumgewinn-Lauf", "Der Ball wird automatisch ins Seitenaus gelegt", "Das kickende Team erhält einen Punkt"],
+      "richtig": 1,
+      "erklaerung": "Der Fair Catch schützt den Receiver vor harten Tackles unmittelbar nach dem Fangen, verbietet ihm aber jeglichen Raumgewinn.",
+      "quelle": { "text": "Fair catch bei Wikipedia", "url": "https://en.wikipedia.org/wiki/Fair_catch" }
+    },
+    {
+      "id": "q273",
+      "stufe": 2,
+      "kategorie": "Geschichte und Liga",
+      "frage": "In welchem Jahr wurde die NFL (damals als APFA) gegründet?",
+      "antworten": ["1895", "1920", "1945", "1960"],
+      "richtig": 1,
+      "erklaerung": "Die Gründung der American Professional Football Association (APFA) fand im September 1920 in Canton, Ohio, statt, bevor sie 1922 in NFL umbenannt wurde.",
+      "quelle": { "text": "National Football League bei Wikipedia", "url": "https://en.wikipedia.org/wiki/National_Football_League" }
+    },
+    {
+      "id": "q274",
+      "stufe": 1,
+      "kategorie": "Taktik und Positionen",
+      "frage": "Wie heißen die beiden Spieler der Offensive Line, die direkt links und rechts neben dem Center stehen?",
+      "antworten": ["Guards", "Tackles", "Wide Receiver", "Linebacker"],
+      "richtig": 0,
+      "erklaerung": "Die Offensive Line besteht von links nach rechts aus: Left Tackle, Left Guard, Center, Right Guard, Right Tackle.",
+      "quelle": { "text": "Offensive line bei Wikipedia", "url": "https://en.wikipedia.org/wiki/Offensive_line" }
+    },
+    {
+      "id": "q275",
+      "stufe": 3,
+      "kategorie": "Liga und Rekorde",
+      "frage": "Welcher legendäre Kicker erzielte in seiner langen Karriere die meisten erfolgreichen Field Goals der NFL-Geschichte?",
+      "antworten": ["Justin Tucker", "Morton Andersen", "Adam Vinatieri", "Gary Anderson"],
+      "richtig": 2,
+      "erklaerung": "Adam Vinatieri traf in seiner Karriere 599 Field Goals (und gewann mehrere Super Bowls durch entscheidende Kicks für die Patriots und Colts).",
+      "quelle": { "text": "Adam Vinatieri bei Wikipedia", "url": "https://en.wikipedia.org/wiki/Adam_Vinatieri" }
+    },
+    {
+      "id": "q276",
+      "stufe": 2,
+      "kategorie": "Regeln",
+      "frage": "Was ist ein 'False Start'?",
+      "antworten": ["Ein unzulässiger Vorwärtspass", "Ein plötzlicher, unerlaubter Vorstart eines Offensivspielers vor dem Snap", "Ein Regelverstoß des Schiedsrichters", "Wenn die Play Clock abläuft"],
+      "richtig": 1,
+      "erklaerung": "Ein False Start ist ein Offensivfoul, das das Spiel sofort unterbricht und 5 Yards Raumverlust zur Folge hat.",
+      "quelle": { "text": "False start bei Wikipedia", "url": "https://en.wikipedia.org/wiki/False_start" }
+    },
+    {
+      "id": "q277",
+      "stufe": 1,
+      "kategorie": "Spielablauf und Strafen",
+      "frage": "Welche dieser Situationen stoppt in der NFL die Spieluhr?",
+      "antworten": ["Ein Lauf, bei dem der Ballträger mitten im Feld getackelt wird", "Ein neues First Down", "Ein Fang im Feld, nach dem der Receiver sofort getackelt wird", "Ein unvollständiger Pass"],
+      "richtig": 3,
+      "erklaerung": "Nach Regel 4-4 stoppt die Uhr unter anderem bei einem unvollständigen Pass, wenn der Ball ins Aus geht, am Ende eines Spielzugs mit Foul, nach einem Wechsel des Ballbesitzes, bei einem Timeout und beim Two-Minute Warning. Tackles im Spielfeld und ein neues First Down stoppen sie nicht.",
+      "quelle": { "text": "NFL-Regelbuch 2026, Regel 4-4 (Stopping the Game Clock)", "url": "https://operations.nfl.com/rules-officiating/2026-nfl-rulebook" }
+    },
+    {
+      "id": "q278",
+      "stufe": 3,
+      "kategorie": "Football in Europa",
+      "frage": "Unter welchem Namen startete im Jahr 2021 eine neue europäische Profiliga für American Football mit Teams wie Frankfurt Galaxy und Hamburg Sea Devils?",
+      "antworten": ["NFL Europe", "European League of Football (ELF)", "Continental Football League", "World League"],
+      "richtig": 1,
+      "erklaerung": "Die European League of Football (ELF) wurde im November 2020 angekündigt und spielte 2021 ihre erste Saison mit acht Teams, darunter Frankfurt Galaxy und Hamburg Sea Devils. Rhein Fire kam erst 2022 dazu.",
+      "quelle": { "text": "European League of Football bei Wikipedia", "url": "https://en.wikipedia.org/wiki/European_League_of_Football" }
+    },
+    {
+      "id": "q279",
+      "stufe": 3,
+      "kategorie": "Geschichte und Liga",
+      "frage": "Seit wann trägt die Super-Bowl-Trophäe den Namen Vince Lombardi Trophy?",
+      "antworten": ["Seit dem ersten Super Bowl 1967", "Seit 1970", "Seit 1985", "Seit 2000"],
+      "richtig": 1,
+      "erklaerung": "Vince Lombardi starb am 3. September 1970. Am 10. September 1970 bekam die Trophäe offiziell seinen Namen. Als Erste erhielten sie unter diesem Namen die Baltimore Colts nach dem Super Bowl V.",
+      "quelle": { "text": "Pro Football Hall of Fame zur Umbenennung der Trophäe", "url": "https://www.profootballhof.com/news/moments-in-nfl-history-championship-trophy-gets-new-iconic-name" }
+    },
+    {
+      "id": "q280",
+      "stufe": 1,
+      "kategorie": "Regeln",
+      "frage": "Wie viele Punkte bringt ein erfolgreicher Extrapunkt (PAT) nach einem Touchdown per Kick ein?",
+      "antworten": ["1 Punkt", "2 Punkte", "3 Punkte", "6 Punkte"],
+      "richtig": 0,
+      "erklaerung": "Der PAT durch die Stangen bringt genau 1 Punkt. Alternativ kann für 2 Punkte eine Conversion ausgespielt werden.",
+      "quelle": { "text": "Point after touchdown bei Wikipedia", "url": "https://en.wikipedia.org/wiki/Point_after_touchdown" }
+    },
+    {
+      "id": "q281",
+      "stufe": 3,
+      "kategorie": "Liga und Rekorde",
+      "frage": "Welches Team hat die meisten Super-Bowl-Niederlagen?",
+      "antworten": ["Denver Broncos", "Buffalo Bills", "Minnesota Vikings", "New England Patriots"],
+      "richtig": 3,
+      "erklaerung": "Mit der Niederlage im Super Bowl LX im Februar 2026 kamen die Patriots auf 12 Teilnahmen und 6 Niederlagen, so viele wie kein anderes Team. Die Denver Broncos haben 5. Stand: Oktober 2026.",
+      "quelle": { "text": "Liste der Super-Bowl-Sieger bei Wikipedia", "url": "https://en.wikipedia.org/wiki/List_of_Super_Bowl_champions" }
+    },
+    {
+      "id": "q282",
+      "stufe": 3,
+      "kategorie": "Geschichte und Liga",
+      "frage": "Wer fing im Super Bowl LVIII den Touchdown-Pass, mit dem die Chiefs in der Verlängerung gewannen?",
+      "antworten": ["Travis Kelce", "Rashee Rice", "Marquez Valdes-Scantling", "Mecole Hardman"],
+      "richtig": 3,
+      "erklaerung": "Patrick Mahomes warf den entscheidenden Pass auf Wide Receiver Mecole Hardman. Mahomes wurde zum dritten Mal Super-Bowl-MVP.",
+      "quelle": { "text": "Super Bowl LVIII bei Wikipedia", "url": "https://en.wikipedia.org/wiki/Super_Bowl_LVIII" }
+    },
+    {
+      "id": "q283",
+      "stufe": 1,
+      "kategorie": "Taktik und Positionen",
+      "frage": "Welche Aufgabe hat bei einem NFL-Team der Offensive Coordinator?",
+      "antworten": ["Er pfeift die Strafen gegen die Offense aus", "Er trainiert ausschließlich die Kicker und Punter", "Er verhandelt die Verträge der Offense-Spieler", "Er plant den Angriff und wählt in der Regel die Spielzüge der Offense aus"],
+      "richtig": 3,
+      "erklaerung": "Der Offensive Coordinator steht in der Trainerhierarchie direkt unter dem Head Coach. Er entwickelt den Spielplan der Offense, leitet die Assistenztrainer (zum Beispiel für Quarterbacks, Receiver und Offensive Line) und ruft in der Regel die Spielzüge, manchmal übernimmt das aber der Head Coach. Das Gegenstück für die Defense ist der Defensive Coordinator.",
+      "quelle": { "text": "Offensive coordinator bei Wikipedia", "url": "https://en.wikipedia.org/wiki/Offensive_coordinator" }
+    },
+    {
+      "id": "q284",
+      "stufe": 2,
+      "kategorie": "Geschichte und Liga",
+      "frage": "In welcher Stadt spielten die Raiders in ihrer letzten Saison vor dem Umzug nach Las Vegas (2019)?",
+      "antworten": ["Los Angeles", "San Diego", "Oakland", "St. Louis"],
+      "richtig": 2,
+      "erklaerung": "Die Raiders traten ab 1960 als Oakland Raiders an, spielten von 1982 bis 1994 als Los Angeles Raiders in Los Angeles und kehrten 1995 nach Oakland zurück. Ihr letztes Spiel in Kalifornien war am 29. Dezember 2019, am 22. Januar 2020 zogen sie offiziell nach Las Vegas um.",
+      "quelle": { "text": "Las Vegas Raiders bei Wikipedia", "url": "https://en.wikipedia.org/wiki/Las_Vegas_Raiders" }
+    },
+    {
+      "id": "q285",
+      "stufe": 3,
+      "kategorie": "Geschichte und Liga",
+      "frage": "Wer war der erste Linebacker in der NFL-Geschichte, der zum wertvollsten Spieler (MVP) eines Super Bowls (Super Bowl V) gewählt wurde?",
+      "antworten": ["Ray Lewis", "Chuck Howley", "Lawrence Taylor", "Von Miller"],
+      "richtig": 1,
+      "erklaerung": "Chuck Howley von den Dallas Cowboys gewann den Super Bowl MVP in Super Bowl V – obwohl sein Team das Spiel gegen die Baltimore Colts verlor.",
+      "quelle": { "text": "Super Bowl V bei Wikipedia", "url": "https://en.wikipedia.org/wiki/Super_Bowl_V" }
+    },
+    {
+      "id": "q286",
+      "stufe": 2,
+      "kategorie": "Regeln",
+      "frage": "Was ist ein 'Onside Kick'?",
+      "antworten": ["Ein Kickoff, der genau in der Mitte landet", "Ein absichtlich kurzer Kickoff, bei dem das kickende Team nach 10 Yards versucht, den Ball selbst zu erobern", "Ein Schuss direkt durch die Torstangen beim Anstoß", "Ein verbotener Tritt ins Seitenaus"],
+      "richtig": 1,
+      "erklaerung": "Ein Onside Kick ist eine riskante taktische Variante, die meist am Ende des Spiels eingesetzt wird, wenn ein Team dringend Ballbesitz braucht.",
+      "quelle": { "text": "Onside kick bei Wikipedia", "url": "https://en.wikipedia.org/wiki/Onside_kick" }
+    },
+    {
+      "id": "q287",
+      "stufe": 1,
+      "kategorie": "Taktik und Positionen",
+      "frage": "Was bedeutet der Begriff 'Rushing' im Football?",
+      "antworten": ["Einen Passangriff", "Einen Raumgewinn durch einen Laufspielzug mit dem Ball in der Hand", "Ein Tackling im Backfield", "Eine Strafe wegen Zeitverzögerung"],
+      "richtig": 1,
+      "erklaerung": "Rushing steht für das Laufspiel (im Gegensatz zum Passing für das Passspiel).",
+      "quelle": { "text": "Rush (gridiron football) bei Wikipedia", "url": "https://en.wikipedia.org/wiki/Rush_(gridiron_football)" }
+    },
+    {
+      "id": "q288",
+      "stufe": 3,
+      "kategorie": "College-Football",
+      "frage": "Welchen berühmten Spitznamen trägt das Heimstadion der Michigan Wolverines ('Michigan Stadium')?",
+      "antworten": ["The Swamp", "The Big House", "Death Valley", "The Horseshoe"],
+      "richtig": 1,
+      "erklaerung": "Das Stadion wird wegen seiner enormen Kapazität von über 100.000 Zuschauern traditionell 'The Big House' genannt.",
+      "quelle": { "text": "Michigan Stadium bei Wikipedia", "url": "https://en.wikipedia.org/wiki/Michigan_Stadium" }
+    },
+    {
+      "id": "q289",
+      "stufe": 2,
+      "kategorie": "Taktik und Positionen",
+      "frage": "Was versteht man im Football unter einem „Edge Rusher“?",
+      "antworten": ["Einen Kicker, der den Ball absichtlich an den Rand des Feldes tritt", "Einen Receiver, der seine Routen direkt an der Seitenlinie läuft", "Einen Pass Rusher am äußeren Rand der Defense, meist einen Defensive End oder Outside Linebacker", "Einen Blocker, der den Quarterback an der Außenseite der Pocket schützt"],
+      "richtig": 2,
+      "erklaerung": "„Edge“ meint den Bereich außerhalb der Offensive Tackles, nah an der Line of Scrimmage. Edge Rusher sind meist Defensive Ends in der 4-3-Formation oder Outside Linebacker in der 3-4-Formation und setzen den Quarterback von außen unter Druck.",
+      "quelle": { "text": "Edge rusher bei Wikipedia", "url": "https://en.wikipedia.org/wiki/Edge_rusher" }
+    },
+    {
+      "id": "q290",
+      "stufe": 1,
+      "kategorie": "Regeln",
+      "frage": "Wie viele Spieler dürfen am Spieltag höchstens im aktiven Kader (Active List) eines NFL-Teams stehen?",
+      "antworten": ["35 Spieler", "48 Spieler", "53 Spieler", "60 Spieler"],
+      "richtig": 1,
+      "erklaerung": "Der gesamte Kader eines Teams umfasst 53 Spieler. Am Spieltag dürfen bis zu 48 davon aktiv sein, aber nur, wenn das Team mindestens acht Offensive Linemen im Spieltagskader hat, sonst sind es höchstens 47.",
+      "quelle": { "text": "Contract Language (Roster Sizes) bei NFL Football Operations", "url": "https://operations.nfl.com/calendar-events/nfl-free-agency/contract-language" }
+    },
+    {
+      "id": "q291",
+      "stufe": 3,
+      "kategorie": "Liga und Rekorde",
+      "frage": "Welcher legendäre Cornerback fing in seiner Rookie-Saison 1952 unglaubliche 14 Interceptions in 12 Spielen?",
+      "antworten": ["Deion Sanders", "Night Train Lane", "Rod Woodson", "Mel Blount"],
+      "richtig": 1,
+      "erklaerung": "Dick „Night Train“ Lane fing 1952 als Rookie 14 Pässe ab und hält damit bis heute den NFL-Rekord für Interceptions in einer einzigen Saison (damals hatte die Saison nur 12 Spiele).",
+      "quelle": { "text": "Night Train Lane bei Wikipedia", "url": "https://en.wikipedia.org/wiki/Night_Train_Lane" }
+    },
+    {
+      "id": "q292",
+      "stufe": 2,
+      "kategorie": "Geschichte und Liga",
+      "frage": "In welchem US-Bundesstaat ist das Team der Green Bay Packers beheimatet?",
+      "antworten": ["Texas", "Wisconsin", "Ohio", "Michigan"],
+      "richtig": 1,
+      "erklaerung": "Green Bay ist die kleinste Stadt mit einem NFL-Team. Die Packers gehören als einziges Team der Liga den Fans selbst (Gemeinschaftsverein).",
+      "quelle": { "text": "Green Bay Packers bei Wikipedia", "url": "https://en.wikipedia.org/wiki/Green_Bay_Packers" }
+    },
+    {
+      "id": "q293",
+      "stufe": 1,
+      "kategorie": "Regeln",
+      "frage": "Was ist ein 'Punt Return'?",
+      "antworten": ["Das Zurücktragen des gepunteten Balls durch einen Spieler des Receiving Teams nach dem Fang", "Ein verbotener Rückpass nach einem Kick", "Ein Trickspielzug der Punter", "Ein Field-Goal-Versuch"],
+      "richtig": 0,
+      "erklaerung": "Der Punt Returner versucht, nach dem Fang des Punts so weit wie möglich Richtung gegnerische Endzone zu laufen.",
+      "quelle": { "text": "Punt returner bei Wikipedia", "url": "https://en.wikipedia.org/wiki/Punt_returner" }
+    },
+    {
+      "id": "q294",
+      "stufe": 3,
+      "kategorie": "Taktik und Positionen",
+      "frage": "Was versteht man unter einer 'Cover 3'-Verteidigung?",
+      "antworten": ["Drei Spieler greifen den Quarterback an", "Drei defensive Backs bzw. Spieler decken jeweils ein Drittel der tiefen Zone ab, während vier Spieler den Raum davor kontrollieren", "Es gibt nur drei Spieler in der Defense", "Ein spezieller Spielzug gegen den Lauf"],
+      "richtig": 1,
+      "erklaerung": "Cover 3 ist eine sehr beliebte Zonenverteidigung, die tiefen Passspielzügen der Offense vorbeugen soll.",
+      "quelle": { "text": "Cover 3 bei Wikipedia", "url": "https://en.wikipedia.org/wiki/Cover_3" }
+    },
+    {
+      "id": "q295",
+      "stufe": 2,
+      "kategorie": "Regeln",
+      "frage": "Was ist bei einer Verlängerung in den NFL-Playoffs seit 2022 garantiert?",
+      "antworten": ["Das Team mit dem Münzwurf gewinnt", "Beide Teams bekommen mindestens einen Ballbesitz", "Es gibt kein Field Goal", "Die Verlängerung dauert genau 5 Minuten"],
+      "richtig": 1,
+      "erklaerung": "Die Regel kam 2022, nachdem die Buffalo Bills in den Playoffs der Saison 2021 in der Verlängerung gegen die Chiefs nicht an den Ball gekommen waren. Einzige Ausnahme: ein Safety gegen das Team mit dem ersten Ballbesitz.",
+      "quelle": { "text": "So funktioniert die Verlängerung in den Playoffs bei CBS Sports", "url": "https://www.cbssports.com/nfl/news/how-nfl-overtime-works-in-the-playoffs-explaining-the-difference-between-postseason-and-regular-season-rules" }
+    },
+    {
+      "id": "q296",
+      "stufe": 1,
+      "kategorie": "Regeln",
+      "frage": "Was wird im Football als 'Holding' bestraft?",
+      "antworten": ["Das unzulässige Festhalten oder Klammern an der Kleidung oder dem Körper eines Gegenspielers, der nicht den Ball hat", "Das Werfen des Balls nach Ablauf der Zeit", "Ein falscher Schritt beim Start", "Das Feiern eines Touchdowns"],
+      "richtig": 0,
+      "erklaerung": "Holding ist eines der häufigsten Fouls und kostet die Offense 10 Yards (oder die Defense 5 Yards und ein First Down).",
+      "quelle": { "text": "Holding (American football) bei Wikipedia", "url": "https://en.wikipedia.org/wiki/Holding_(American_football)" }
+    },
+    {
+      "id": "q297",
+      "stufe": 3,
+      "kategorie": "Liga und Rekorde",
+      "frage": "Welcher legendäre Quarterback warf in seiner Karriere die meisten Interceptions (336) in der regulären Saison?",
+      "antworten": ["Tom Brady", "Brett Favre", "Peyton Manning", "Dan Marino"],
+      "richtig": 1,
+      "erklaerung": "Brett Favre spielte furchtlos und risikoreich, weshalb er neben seinen vielen Touchdowns auch den Rekord für die meisten Interceptions hält.",
+      "quelle": { "text": "List of NFL career passing interceptions leaders bei Pro-Football-Reference", "url": "https://www.pro-football-reference.com/leaders/pass_int_career.htm" }
+    },
+    {
+      "id": "q298",
+      "stufe": 2,
+      "kategorie": "Geschichte und Liga",
+      "frage": "In welchem Jahr wurde das erste Super-Bowl-Endspiel ausgetragen?",
+      "antworten": ["1960", "1967", "1970", "1975"],
+      "richtig": 1,
+      "erklaerung": "Der erste Super Bowl fand am 15. Januar 1967 im Los Angeles Memorial Coliseum statt.",
+      "quelle": { "text": "Super Bowl I bei Wikipedia", "url": "https://en.wikipedia.org/wiki/Super_Bowl_I" }
+    },
+    {
+      "id": "q299",
+      "stufe": 1,
+      "kategorie": "Regeln",
+      "frage": "Wie viele Punkte bringt eine erfolgreiche 'Two-Point Conversion' nach einem Touchdown ein?",
+      "antworten": ["1 Punkt", "2 Punkte", "3 Punkte", "6 Punkte"],
+      "richtig": 1,
+      "erklaerung": "Bei der Two-Point Conversion versucht die Offense von der 2-Yard-Linie aus einen Extrapunkt-Spielzug in die Endzone zu bringen (Wert: 2 Punkte).",
+      "quelle": { "text": "Two-point conversion bei Wikipedia", "url": "https://en.wikipedia.org/wiki/Two-point_conversion" }
+    },
+    {
+      "id": "q300",
+      "stufe": 3,
+      "kategorie": "Liga und Rekorde",
+      "frage": "Wie viele Yards Raumgewinn hat der längstmögliche Touchdown-Pass in der NFL?",
+      "antworten": ["90 Yards", "99 Yards", "100 Yards", "110 Yards"],
+      "richtig": 1,
+      "erklaerung": "Beim längsten möglichen Pass-Spielzug liegt der Ball an der eigenen 1-Yard-Linie, bis zur gegnerischen Goal Line sind es 99 Yards. Das ist in der NFL-Geschichte bisher 14 Mal gelungen, zuletzt 2011 mit Eli Manning und Victor Cruz von den New York Giants.",
+      "quelle": { "text": "List of NFL 99-yard pass plays bei Wikipedia", "url": "https://en.wikipedia.org/wiki/List_of_NFL_99-yard_pass_plays" }
+    },
+    {
+      "id": "q338",
+      "stufe": 2,
+      "kategorie": "Spielablauf und Strafen",
+      "frage": "Ein Wide Receiver stößt den Cornerback weg, um sich vom Verteidiger zu lösen (Offensive Pass Interference). Wie viele Yards kostet das die Offense in der NFL?",
+      "antworten": ["5 Yards", "10 Yards", "15 Yards", "20 Yards"],
+      "richtig": 1,
+      "erklaerung": "Offensive Pass Interference kostet 10 Yards vom Ausgangspunkt des Spielzugs (Regel 8-5). Bei Pass Interference der Defense gibt es dagegen ein automatisches First Down an der Stelle des Fouls.",
+      "quelle": { "text": "NFL-Regelbuch 2026, Regel 8-5 (Pass Interference)", "url": "https://operations.nfl.com/rules-officiating/2026-nfl-rulebook" }
+    },
+    {
+      "id": "q339",
+      "stufe": 3,
+      "kategorie": "Regeln",
+      "frage": "Der Spielzug begann an der gegnerischen 20-Yard-Linie. Ein Verteidiger begeht in der Endzone Pass Interference. Wo bekommt die Offense den Ball?",
+      "antworten": ["An der 10-Yard-Linie, mit First Down", "An der 20-Yard-Linie, der Down wird wiederholt", "Die Offense bekommt sofort einen Touchdown", "An der 1-Yard-Linie, mit First Down"],
+      "richtig": 3,
+      "erklaerung": "Die Strafe gilt an der Stelle des Fouls. Liegt sie in der Endzone und begann der Spielzug auf oder außerhalb der 2-Yard-Linie der Defense, ist es First Down an deren 1-Yard-Linie. Begann er näher an der Goal Line, wird die Strecke bis zur Goal Line halbiert (Regel 8-5).",
+      "quelle": { "text": "NFL-Regelbuch 2026, Regel 8-5 (Strafe bei Pass Interference)", "url": "https://operations.nfl.com/rules-officiating/2026-nfl-rulebook" }
+    },
+    {
+      "id": "q340",
+      "stufe": 2,
+      "kategorie": "Regeln",
+      "frage": "Bis wie viele Yards hinter der Line of Scrimmage darf ein Verteidiger einen Receiver mit den Händen stoppen (Chuck)?",
+      "antworten": ["1 Yard", "3 Yards", "5 Yards", "10 Yards"],
+      "richtig": 2,
+      "erklaerung": "Innerhalb von 5 Yards darf der Verteidiger den Receiver vor sich stoßen und den Kontakt halten, bis der Receiver auf seiner Höhe ist. Danach darf er ihn nicht mehr behindern, solange der Quarterback noch passen kann. Sonst gibt es Illegal Contact: 5 Yards und ein automatisches First Down (Regel 8-4).",
+      "quelle": { "text": "NFL-Regelbuch 2026, Regel 8-4 (Kontakt mit Receivern)", "url": "https://operations.nfl.com/rules-officiating/2026-nfl-rulebook" }
+    },
+    {
+      "id": "q341",
+      "stufe": 2,
+      "kategorie": "Spielablauf und Strafen",
+      "frage": "Ein Running Back läuft beim Snap noch auf die Line of Scrimmage zu. Was wird gepfiffen?",
+      "antworten": ["Illegal Motion", "False Start", "Offside", "Delay of Game"],
+      "richtig": 0,
+      "erklaerung": "Beim Snap darf nur ein Spieler aus dem Backfield in Bewegung sein, und er muss parallel zur Line oder von ihr weg laufen. Wer auf die Line zuläuft, begeht Illegal Motion. Das kostet 5 Yards (Regel 7-4-8).",
+      "quelle": { "text": "NFL-Regelbuch 2026, Regel 7-4-8 (Illegal Motion)", "url": "https://operations.nfl.com/rules-officiating/2026-nfl-rulebook" }
+    },
+    {
+      "id": "q342",
+      "stufe": 3,
+      "kategorie": "Regeln",
+      "frage": "Ein Receiver tritt von selbst ins Seitenaus, kommt zurück aufs Feld und fängt dort als Erster den Pass. Was gilt?",
+      "antworten": ["Der Fang zählt ganz normal", "Der Down wird ohne Strafe wiederholt", "Es gibt 5 Yards Strafe und der Down wird wiederholt", "Illegal Touching: Verlust eines Downs an der vorherigen Stelle"],
+      "richtig": 3,
+      "erklaerung": "Wer im Aus war, darf den Pass nicht als Erster berühren, auch wenn er wieder im Feld steht. Die Strafe ist der Verlust eines Downs an der vorherigen Stelle. Ausnahme: Hat ihn ein Foul des Gegners ins Aus gedrängt, darf er zurückkommen und fangen (Regel 8-1-8).",
+      "quelle": { "text": "NFL-Regelbuch 2026, Regel 8-1-8 (Illegal Touching of a Forward Pass)", "url": "https://operations.nfl.com/rules-officiating/2026-nfl-rulebook" }
+    },
+    {
+      "id": "q343",
+      "stufe": 3,
+      "kategorie": "Spielablauf und Strafen",
+      "frage": "Ohne Druck der Defense nimmt der Quarterback den Snap, wartet zwei Sekunden und wirft den Ball dann in den Boden, um die Uhr zu stoppen. Was wird gepfiffen?",
+      "antworten": ["Nichts, ein Spike ist immer erlaubt", "Delay of Game", "Illegal Forward Pass", "Intentional Grounding"],
+      "richtig": 3,
+      "erklaerung": "Ein Spike ist nur erlaubt, wenn der Quarterback ihn sofort nach dem Snap macht. Wer erst wartet, begeht Intentional Grounding. Die Strafe ist der Verlust eines Downs und in der Regel 10 Yards (Regel 8-2-1).",
+      "quelle": { "text": "NFL-Regelbuch 2026, Regel 8-2-1 (Delayed Spike)", "url": "https://operations.nfl.com/rules-officiating/2026-nfl-rulebook" }
+    },
+    {
+      "id": "q344",
+      "stufe": 3,
+      "kategorie": "Regeln",
+      "frage": "Ein Kickoff setzt an der 10-Yard-Linie des Return-Teams auf und rollt in die Endzone, wo der Returner ihn hinkniet. Auf welcher Linie beginnt die Offense?",
+      "antworten": ["20-Yard-Linie", "25-Yard-Linie", "30-Yard-Linie", "35-Yard-Linie"],
+      "richtig": 0,
+      "erklaerung": "Setzt der Kickoff zuerst in der Landing Zone auf (zwischen der 20-Yard-Linie und der Goal Line), liegt der Ball nach dem Touchback auf der 20. Fliegt der Kick direkt in die Endzone, ist es die 35 (Regel 6-1-5).",
+      "quelle": { "text": "NFL-Regelbuch 2026, Regel 6-1-5 (Kickoff über die Goal Line)", "url": "https://operations.nfl.com/rules-officiating/2026-nfl-rulebook" }
+    },
+    {
+      "id": "q345",
+      "stufe": 3,
+      "kategorie": "Regeln",
+      "frage": "In der Verlängerung eines Hauptrundenspiels erzielt das kickende Team beim ersten Ballbesitz des Gegners einen Safety. Was passiert?",
+      "antworten": ["Der Gegner bekommt trotzdem noch seinen Ballbesitz", "Das Spiel geht weiter, bis ein Touchdown fällt", "Der Safety zählt in der Verlängerung nicht", "Das kickende Team gewinnt sofort"],
+      "richtig": 3,
+      "erklaerung": "Normalerweise bekommen beide Teams in der Verlängerung einen Ballbesitz. Ein Safety des kickenden Teams im ersten Ballbesitz des Gegners ist die Ausnahme: Das kickende Team gewinnt sofort (Regel 16-3).",
+      "quelle": { "text": "NFL-Regelbuch 2026, Regel 16-3 (Verlängerung in der Hauptrunde)", "url": "https://operations.nfl.com/rules-officiating/2026-nfl-rulebook" }
+    },
+    {
+      "id": "q346",
+      "stufe": 2,
+      "kategorie": "Spielablauf und Strafen",
+      "frage": "Wie lange dauert die Halbzeitpause in der NFL laut Regelbuch?",
+      "antworten": ["5 Minuten", "10 Minuten", "13 Minuten", "20 Minuten"],
+      "richtig": 2,
+      "erklaerung": "Zwischen dem zweiten und dritten Viertel gibt es 13 Minuten Pause. Zwischen dem ersten und zweiten sowie dem dritten und vierten Viertel sind es mindestens zwei Minuten (Regel 4-1-2 und 4-1-3).",
+      "quelle": { "text": "NFL-Regelbuch 2026, Regel 4-1-3 (Halbzeit)", "url": "https://operations.nfl.com/rules-officiating/2026-nfl-rulebook" }
+    },
+    {
+      "id": "q347",
+      "stufe": 2,
+      "kategorie": "Spielablauf und Strafen",
+      "frage": "Ein Blocker trifft weit abseits der Line of Scrimmage einen Verteidiger ohne Ball von hinten an den Knien (Clipping). Wie viele Yards kostet das?",
+      "antworten": ["5 Yards", "10 Yards", "15 Yards", "20 Yards"],
+      "richtig": 2,
+      "erklaerung": "Clipping ist ein Block von hinten unterhalb der Hüfte gegen einen Spieler ohne Ball. Er kostet 15 Yards (Regel 12-2-1).",
+      "quelle": { "text": "NFL-Regelbuch 2026, Regel 12-2-1 (Clipping)", "url": "https://operations.nfl.com/rules-officiating/2026-nfl-rulebook" }
+    },
+    {
+      "id": "q348",
+      "stufe": 2,
+      "kategorie": "Regeln",
+      "frage": "Nach einem Safety bringt das Team, das ihn zugelassen hat, den Ball per Free Kick ins Spiel. Von welcher Linie aus?",
+      "antworten": ["10-Yard-Linie", "20-Yard-Linie", "25-Yard-Linie", "35-Yard-Linie"],
+      "richtig": 1,
+      "erklaerung": "Das Team, das den Safety zugelassen hat, kickt von der eigenen 20-Yard-Linie, per Punt, Drop Kick oder Place Kick. Das andere Team, das die zwei Punkte erzielt hat, empfängt den Kick und startet dort seinen Ballbesitz (Regel 11-5-2).",
+      "quelle": { "text": "NFL-Regelbuch 2026, Regel 11-5-2 (Ball nach einem Safety)", "url": "https://operations.nfl.com/rules-officiating/2026-nfl-rulebook" }
+    },
+    {
+      "id": "q349",
+      "stufe": 3,
+      "kategorie": "Regeln",
+      "frage": "Ein Running Back fumbelt kurz vor der Goal Line, der Ball rollt durch die Endzone und ins Seitenaus. Wer bekommt den Ball?",
+      "antworten": ["Die Defense, Touchback an der 20-Yard-Linie", "Die Offense an der Stelle des Fumbles", "Die Offense an der 1-Yard-Linie", "Die Offense, es zählt als Touchdown"],
+      "richtig": 0,
+      "erklaerung": "Geht der Ball nach dem Fumble der Offense in der gegnerischen Endzone ins Aus, ist es ein Touchback. Die Defense bekommt den Ball an der 20-Yard-Linie. Das gilt auch, wenn der Ball dabei die Pylone berührt (Regel 11-6-2).",
+      "quelle": { "text": "NFL-Regelbuch 2026, Regel 11-6-2 (Touchback-Situationen)", "url": "https://operations.nfl.com/rules-officiating/2026-nfl-rulebook" }
     }
   ]
 }
